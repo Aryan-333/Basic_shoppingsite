@@ -94,10 +94,10 @@ nav ul li a:hover{
     color: cornsilk;
 }
 .container{
-    min-height: calc(100vh - 26vh - 9vh);
+    min-height: calc(100vh - 16vh - 9vh);
 }
 footer{
-    height: 26vh;
+    height: 16vh;
     background-color: grey;
     color: ivory;
     font-family: 'Open Sans', sans-serif;
