@@ -93,11 +93,9 @@ nav ul li a:hover{
     background-color: rgb(3, 69, 122);
     color: cornsilk;
 }
-.container{
-    min-height: calc(100vh - 16vh - 9vh);
-}
+
 footer{
-    height: 16vh;
+    height: 26vh;
     background-color: grey;
     color: ivory;
     font-family: 'Open Sans', sans-serif;
